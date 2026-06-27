@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vishva1930/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/vishva1930/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
