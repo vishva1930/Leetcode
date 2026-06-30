@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishva1930/Leetcode/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/vishva1930/Leetcode/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishva1930/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/vishva1930/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
