@@ -6,7 +6,6 @@ class Solution {
         for(int i=0;i<matrix.length;i++){
             y=0;
             for(int j=matrix[0].length-1;j>=0;j--){
-               // System.out.print(matrix[j][i]);
                 arr[x][y]=matrix[j][i];
                 y++;
             }
