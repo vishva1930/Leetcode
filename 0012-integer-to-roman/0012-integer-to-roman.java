@@ -6,15 +6,17 @@ class Solution {
         String roman[]={"M","CM","D","CD",
                         "C","XC","L","XL",
                         "X","IX","V","IV","I"};
-        StringBuilder ans=new StringBuilder();
-
+        //StringBuilder ans=new StringBuilder();
+         String ans = "";
         for(int i=0;i<values.length;i++){
             while(num>=values[i]){
-                ans.append(roman[i]);
+                // ans.append(roman[i]);
+                ans+=roman[i];
                 num=num-values[i];
             }
         }
-       return  ans.toString();
+     //  return  ans.toString();
+       return ans;
         
     }
 }
