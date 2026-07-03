@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vishva1930/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishva1930/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/vishva1930/Leetcode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/vishva1930/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
@@ -37,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vishva1930/Leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/vishva1930/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/vishva1930/Leetcode/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishva1930/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/vishva1930/Leetcode/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/vishva1930/Leetcode/tree/master/0038-count-and-say) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vishva1930/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sliding Window
