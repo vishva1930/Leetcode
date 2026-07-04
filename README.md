@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vishva1930/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/vishva1930/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/vishva1930/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vishva1930/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/vishva1930/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vishva1930/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vishva1930/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishva1930/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/vishva1930/Leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/vishva1930/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/vishva1930/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vishva1930/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Linked List
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishva1930/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/vishva1930/Leetcode/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/vishva1930/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/vishva1930/Leetcode/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vishva1930/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sliding Window
 |  |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vishva1930/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vishva1930/Leetcode/tree/master/0056-merge-intervals) |
 ## Matrix
 |  |
