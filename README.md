@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishva1930/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/vishva1930/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/vishva1930/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/vishva1930/Leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/vishva1930/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/vishva1930/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vishva1930/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vishva1930/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/vishva1930/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/vishva1930/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/vishva1930/Leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vishva1930/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sliding Window
 |  |
