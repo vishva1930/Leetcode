@@ -1,9 +1,18 @@
 class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
 
-        int total = 0;      // Total gas - total cost
-        int tank = 0;       // Current petrol in the tank
-        int start = 0;      // Possible starting station
+        int total = 0;
+        int tank = 0;
+        int start = 0;
+        int g=0;
+        int c=0;
+        for(int i=0;i<gas.length;i++){
+            g=g+gas[i];
+            c=c+cost[i];
+        }
+        if(c>g){
+            return -1;
+        }
 
         for (int i = 0; i < gas.length; i++) {
 
@@ -17,10 +26,8 @@ class Solution {
                 tank = 0;
             }
         }
+       // return tank>=0
 
-        if (total >= 0)
-            return start;
-
-        return -1;
+        return tank >= 0 ? start : -1;
     }
 }
