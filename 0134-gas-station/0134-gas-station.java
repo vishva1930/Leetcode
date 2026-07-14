@@ -10,8 +10,7 @@ class Solution {
         for (int i = 0; i < gas.length; i++) {
             //  g=g+gas[i];
             //  c=c+cost[i];
-
-            int diff = gas[i]-cost[i];
+            int diff= gas[i]-cost[i];
             tank=tank+diff;
             remgas=remgas+diff;
 
