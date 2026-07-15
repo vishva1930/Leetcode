@@ -10,16 +10,11 @@ class Solution {
                 o=o+i;
             }
         }
-        // System.out.println(e);
-        //  System.out.print(o);
-
         while (e != 0) {
             int temp = e;
             e = o % e;
             o = temp;
         }
-
-        // System.out.println("GCD = " + a);
         return o;
     }
 }
