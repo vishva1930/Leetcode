@@ -6,8 +6,7 @@ class Solution {
         }
         while(n>1){
             n=n/5;
-            c=c+n;
-           
+            c=c+n; 
         }
         return c;
         
