@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vishva1930/Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/vishva1930/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/vishva1930/Leetcode/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/vishva1930/Leetcode/tree/master/0139-word-break) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vishva1930/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/vishva1930/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vishva1930/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/vishva1930/Leetcode/tree/master/0139-word-break) |
 ## Linked List
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/vishva1930/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/vishva1930/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vishva1930/Leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/vishva1930/Leetcode/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vishva1930/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/vishva1930/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Sliding Window
@@ -134,8 +137,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vishva1930/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vishva1930/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/vishva1930/Leetcode/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/vishva1930/Leetcode/tree/master/0139-word-break) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vishva1930/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vishva1930/Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vishva1930/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
