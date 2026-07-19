@@ -2,7 +2,6 @@ class Solution {
      static int countDigits(int num) {
         if (num == 0)
             return 1;
-
         int count = 0;
         while (num > 0) {
             count++;
@@ -11,7 +10,6 @@ class Solution {
         return count;
     }
 
-    // Find 10^n
     static int power(int n) {
         int p = 1;
         while (n > 0) {
@@ -20,17 +18,11 @@ class Solution {
         }
         return p;
     }
-
-
     public String largestNumber(int[] nums) {
         String str="";
          int n = nums.length;
-
-        // Bubble Sort
         for (int i = 0; i < n - 1; i++) {
-
             for (int j = 0; j < n - i - 1; j++) {
-
                 int d1 = countDigits(nums[j]);
                 int d2 = countDigits(nums[j + 1]);
 
@@ -44,12 +36,7 @@ class Solution {
                 }
             }
         }
-   
-       
-
-        // Print the largest number
         for (int i = 0; i < n; i++) {
-            //System.out.print(nums[i]);
             str=str+nums[i];
         }
         if(str.charAt(0)=='0'){
