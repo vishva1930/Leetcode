@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vishva1930/Leetcode/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/vishva1930/Leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/vishva1930/Leetcode/tree/master/0179-largest-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vishva1930/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1528-shuffle-string](https://github.com/vishva1930/Leetcode/tree/master/1528-shuffle-string) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vishva1930/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vishva1930/Leetcode/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/vishva1930/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vishva1930/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vishva1930/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/vishva1930/Leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/vishva1930/Leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/vishva1930/Leetcode/tree/master/0179-largest-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vishva1930/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Matrix
 |  |
 | ------- |
