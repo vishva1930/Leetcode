@@ -213,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vishva1930/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vishva1930/Leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
