@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/vishva1930/Leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/vishva1930/Leetcode/tree/master/0179-largest-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vishva1930/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0414-third-maximum-number](https://github.com/vishva1930/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/vishva1930/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishva1930/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vishva1930/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/vishva1930/Leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/vishva1930/Leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/vishva1930/Leetcode/tree/master/0179-largest-number) |
+| [0414-third-maximum-number](https://github.com/vishva1930/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishva1930/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vishva1930/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishva1930/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
