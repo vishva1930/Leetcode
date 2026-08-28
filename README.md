@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vishva1930/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vishva1930/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vishva1930/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/vishva1930/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishva1930/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/vishva1930/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vishva1930/Leetcode/tree/master/0049-group-anagrams) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishva1930/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/vishva1930/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vishva1930/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishva1930/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/vishva1930/Leetcode/tree/master/0061-rotate-list) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vishva1930/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/vishva1930/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vishva1930/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vishva1930/Leetcode/tree/master/0075-sort-colors) |
