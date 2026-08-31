@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vishva1930/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/vishva1930/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vishva1930/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vishva1930/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/vishva1930/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/vishva1930/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vishva1930/Leetcode/tree/master/0125-valid-palindrome) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vishva1930/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/vishva1930/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vishva1930/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/vishva1930/Leetcode/tree/master/0118-pascals-triangle) |
@@ -239,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/vishva1930/Leetcode/tree/master/0164-maximum-gap) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vishva1930/Leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vishva1930/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
