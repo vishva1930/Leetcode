@@ -9,10 +9,6 @@ class Solution {
             arr[in++]=nums2[i];
         }
         Arrays.sort(arr);
-        // for(int i=0;i<in;i++){
-        //     System.out.print(arr[i]);
-        // }
-       // double m=double(arr[0]+arr[in-1]/2);
        if(arr.length%2!=0){
         return arr[arr.length/2];
        }
