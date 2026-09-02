@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishva1930/Leetcode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/vishva1930/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vishva1930/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vishva1930/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vishva1930/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishva1930/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/vishva1930/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vishva1930/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/vishva1930/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vishva1930/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vishva1930/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishva1930/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/vishva1930/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vishva1930/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vishva1930/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0513-find-bottom-left-tree-value](https://github.com/vishva1930/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vishva1930/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vishva1930/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishva1930/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/vishva1930/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vishva1930/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/vishva1930/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 ## Greedy
