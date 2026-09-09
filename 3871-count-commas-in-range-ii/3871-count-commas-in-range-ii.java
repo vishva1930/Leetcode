@@ -5,8 +5,8 @@ class Solution {
         if (n>=1000) {
             num=num+n-1000+1;
         }
-        if(n>=1000000){
-            num=num+n-1000000+1;
+        if(n>999999){
+            num=num+n-999999;
         }
         if(n>=1000000000L){
             num=num+n-1000000000L+1;
