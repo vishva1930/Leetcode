@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vishva1930/Leetcode/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vishva1930/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/vishva1930/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1328-break-a-palindrome](https://github.com/vishva1930/Leetcode/tree/master/1328-break-a-palindrome) |
 | [1528-shuffle-string](https://github.com/vishva1930/Leetcode/tree/master/1528-shuffle-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vishva1930/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vishva1930/Leetcode/tree/master/0179-largest-number) |
 | [0670-maximum-swap](https://github.com/vishva1930/Leetcode/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/vishva1930/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1328-break-a-palindrome](https://github.com/vishva1930/Leetcode/tree/master/1328-break-a-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
