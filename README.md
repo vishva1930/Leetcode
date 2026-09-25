@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vishva1930/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vishva1930/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/vishva1930/Leetcode/tree/master/0139-word-break) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vishva1930/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishva1930/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vishva1930/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishva1930/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vishva1930/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vishva1930/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/vishva1930/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vishva1930/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/vishva1930/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vishva1930/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0513-find-bottom-left-tree-value](https://github.com/vishva1930/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vishva1930/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/vishva1930/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vishva1930/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0513-find-bottom-left-tree-value](https://github.com/vishva1930/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vishva1930/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vishva1930/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vishva1930/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/vishva1930/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vishva1930/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Greedy
 |  |
 | ------- |
