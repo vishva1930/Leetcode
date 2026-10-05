@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vishva1930/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishva1930/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vishva1930/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0856-score-of-parentheses](https://github.com/vishva1930/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vishva1930/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Recursion
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vishva1930/Leetcode/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vishva1930/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/vishva1930/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0856-score-of-parentheses](https://github.com/vishva1930/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vishva1930/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1328-break-a-palindrome](https://github.com/vishva1930/Leetcode/tree/master/1328-break-a-palindrome) |
 | [1528-shuffle-string](https://github.com/vishva1930/Leetcode/tree/master/1528-shuffle-string) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishva1930/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vishva1930/Leetcode/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/vishva1930/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vishva1930/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Binary Search
 |  |
