@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/vishva1930/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishva1930/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vishva1930/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishva1930/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Recursion
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vishva1930/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1328-break-a-palindrome](https://github.com/vishva1930/Leetcode/tree/master/1328-break-a-palindrome) |
 | [1528-shuffle-string](https://github.com/vishva1930/Leetcode/tree/master/1528-shuffle-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishva1930/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vishva1930/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/vishva1930/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishva1930/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1328-break-a-palindrome](https://github.com/vishva1930/Leetcode/tree/master/1328-break-a-palindrome) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishva1930/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/vishva1930/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishva1930/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vishva1930/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishva1930/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Binary Search
 |  |
 | ------- |
